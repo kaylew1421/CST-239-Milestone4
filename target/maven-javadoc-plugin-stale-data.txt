@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/Kayla/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.17.2/jackson-databind-2.17.2.jar;C:/Users/Kayla/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2.jar;C:/Users/Kayla/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.17.2/jackson-core-2.17.2.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/Kayla/Documents/GCU/2025/CST-239/Projects/Topic-4/Milestone4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Kayla/Documents/GCU/2025/CST-239/Projects/Topic-4/Milestone4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CST-239 Inventory Store 1.0.1 API'
+-use
+-version
+-windowtitle
+'CST-239 Inventory Store 1.0.1 API'
+com.ck.store
+C:\Users\Kayla\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.17.2\jackson-databind-2.17.2.jar = 1762871637713
+C:\Users\Kayla\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.17.2\jackson-annotations-2.17.2.jar = 1762871637812
+C:\Users\Kayla\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.17.2\jackson-core-2.17.2.jar = 1762871637903
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\src\main\java = 1762907311657
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\allclasses-index.html = 1762908374735
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\allpackages-index.html = 1762908374740
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\copy.svg = 1762908374878
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\element-list = 1762908374382
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\help-doc.html = 1762908374857
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\index-all.html = 1762908374830
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\index.html = 1762908374845
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\link.svg = 1762908374886
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\member-search-index.js = 1762908374757
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\module-search-index.js = 1762908374745
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\overview-tree.html = 1762908374637
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\package-search-index.js = 1762908374748
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\script.js = 1762908374872
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\search-page.js = 1762908374909
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\search.html = 1762908374841
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\search.js = 1762908374897
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\serialized-form.html = 1762908374457
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\stylesheet.css = 1762908374866
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\tag-search-index.js = 1762908374761
+C:\Users\Kayla\Documents\GCU\2025\CST-239\Projects\Topic-4\Milestone4\target\site\apidocs\type-search-index.js = 1762908374753

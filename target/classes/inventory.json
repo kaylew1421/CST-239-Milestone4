@@ -1,0 +1,29 @@
+[
+  {
+    "product": {
+      "id": "p1",
+      "name": "Bronze Sword",
+      "category": "Weapons",
+      "price": 50.0
+    },
+    "quantity": 10
+  },
+  {
+    "product": {
+      "id": "p2",
+      "name": "Health Potion",
+      "category": "Consumables",
+      "price": 12.5
+    },
+    "quantity": 25
+  },
+  {
+    "product": {
+      "id": "p3",
+      "name": "Leather Armor",
+      "category": "Armor",
+      "price": 120.0
+    },
+    "quantity": 5
+  }
+]
